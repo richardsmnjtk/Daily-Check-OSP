@@ -47,8 +47,8 @@ A comprehensive health check system for OpenStack environments that generates an
 
 Example check script:
 ```bash
+# My Custom Check Name >> Change to service/resources name
 #!/bin/bash
-# My Custom Check Name
 
 # Your check logic here
 if some_condition; then
@@ -69,6 +69,7 @@ bash daily-report.sh
 ```
 
 The report will be generated as `report.html` in the current directory.
+![image](https://github.com/user-attachments/assets/4d3e9829-1a66-48e4-95af-f46dcba94008)
 
 ## Report Features
 
