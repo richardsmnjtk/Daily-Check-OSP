@@ -101,7 +101,7 @@ The report will be generated as `report.html` in the current directory.
    rm -f /tmp/output_*
    ```
 
-## Contributing
+## Customizing
 
 To add new health checks:
 
