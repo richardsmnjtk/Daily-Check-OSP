@@ -111,4 +111,5 @@ To add new health checks:
 4. Test it independently before adding to the suite
 
 ## GENERATED HTML
-![image](https://github.com/user-attachments/assets/ba0bf5fd-c43f-46fb-9576-7f7ae693919a)
+![image](https://github.com/user-attachments/assets/4ba5a906-ec9a-4bc2-ac3e-57a0951a48cf)
+
