@@ -111,5 +111,8 @@ To add new health checks:
 4. Test it independently before adding to the suite
 
 ## GENERATED HTML
+1. Main Display
 ![image](https://github.com/user-attachments/assets/4ba5a906-ec9a-4bc2-ac3e-57a0951a48cf)
+2. Filtering
+![image](https://github.com/user-attachments/assets/bca80e94-9e09-49c8-bc51-cb2fc5d3d621)
 
