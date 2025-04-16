@@ -106,6 +106,5 @@ To add new health checks:
 3. Make it executable: `chmod +x XX-descriptive-name.sh`
 4. Test it independently before adding to the suite
 
-## License
-
-This project is open-source and available under the MIT License. 
+## GENERATED HTML
+![image](https://github.com/user-attachments/assets/ba0bf5fd-c43f-46fb-9576-7f7ae693919a)
