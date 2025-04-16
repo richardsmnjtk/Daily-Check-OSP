@@ -29,6 +29,9 @@ A comprehensive health check system for OpenStack environments that generates an
 ## Installation
 
 1. Clone this repository or copy the files to your desired location
+   ```bash
+   git clone https://github.com/richardsmnjtk/Daily-Check-OSP.git
+   ```
 2. Run the setup script:
    ```bash
    bash setup.sh
