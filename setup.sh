@@ -47,7 +47,7 @@ echo "----------------------------------------"
 create_dir_if_not_exists "$CHECKS_DIR"
 
 # Make scripts executable
-make_executable "${SCRIPT_DIR}/report5.sh"
+make_executable "${SCRIPT_DIR}/daily-report.sh"
 
 # Create example check script if checks directory is empty
 if [ -z "$(ls -A "$CHECKS_DIR" 2>/dev/null)" ]; then
@@ -88,7 +88,7 @@ if [ $MISSING_COMMANDS -gt 0 ]; then
 fi
 
 # Setup complete
-print_status "$GREEN" "\n✓ Setup complete! You can now run health checks with: bash report5.sh"
+print_status "$GREEN" "\n✓ Setup complete! You can now run health checks with: bash daily-report.sh"
 echo -e "\nTo add new checks:"
 echo "1. Create scripts in: $CHECKS_DIR"
 echo "2. Name format: XX-name.sh (XX for ordering)"
